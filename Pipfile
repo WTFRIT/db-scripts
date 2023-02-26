@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-wtfrit-storage-schema = {path = "./../storage-schema"}
+wtfrit-storage-schema = {path = "./../wtfrit_storage_schema"}
 
 [dev-packages]
 
